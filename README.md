@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm JohnPraise</h1>
 
-Full Stack Developer
 
-###$ These are my repo
+#### These are my repos
 
 <!--- 👋 Hi, I’m @JohnPraise247
 - 👀 I’m interested in coding and 3d animations
