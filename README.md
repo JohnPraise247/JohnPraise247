@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm JohnPraise</h1>
+
 <!--- 👋 Hi, I’m @JohnPraise247
 - 👀 I’m interested in coding and 3d animations
 - 🌱 I’m currently learning Blender
