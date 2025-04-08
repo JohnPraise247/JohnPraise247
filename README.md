@@ -2,7 +2,7 @@
 I’m a web developer with a passion for building practical solutions and exploring new tech. Right now, I’m leveling up my skills in Laravel and diving into machine learning, while tinkering with the ESP32 on the side.
 
 ## 🔧 Skills  
-Laravel, PHP, JavaScript, HTML/CSS, TailwindCSS, MithrilJS, Blender3D, Photoshop
+PHP, JavaScript, HTML/CSS, TailwindCSS, NodeJS, MithrilJS, Blender3D, Photoshop
 
 ## 🌟 Featured Projects  
 - **[MobileCode Studio](https://mobilecodestudio.org.ng/)**
