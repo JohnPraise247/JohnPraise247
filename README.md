@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm JohnPraise</h1>
+# Hi, I’m John! 👋  
+I’m a web developer with a passion for building practical solutions and exploring new tech. Right now, I’m leveling up my skills in Laravel and diving into machine learning, while tinkering with the ESP32 on the side.
 
+## 🔧 Skills  
+Laravel, PHP, JavaScript, HTML/CSS, TailwindCSS, MithrilJS, Blender3D, Photoshop
 
-#### These are my repos 👇
+## 🌟 Featured Projects  
+- **[MobileCode Studio](https://mobilecodestudio.org.ng/)**
+- **[RideRate](https://github.com/JohnPraise247/RideRate)** & **[RideRateNew](https://github.com/JohnPraise247/RideRateNew)** 
+- **[DroidScript Plugins](https://ds.justplayer.de/user/552)**
 
-<!--- 👋 Hi, I’m @JohnPraise247
-
-
-<mJohnPraise247/JohnPraise247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Be Nice!
-You can click the Preview link to take a look at your changes.
----> 
+## 📫 Connect with Me  
+- Email: jpraise247@gmail.com 
