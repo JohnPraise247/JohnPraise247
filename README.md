@@ -2,13 +2,13 @@
 
 I'm a passionate **web developer** who loves turning ideas into functional, user-friendly solutions. I'm currently sharpening my skills in **Laravel** and exploring the world of **machine learning**, while also experimenting with **ESP32** projects on the side.
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Languages & Frameworks**: PHP, JavaScript, HTML, CSS, Node.js, Mithril.js, Laravel  
 - **Styling**: TailwindCSS, DaisyUI, FrankenUI, BeerCSS  
 - **Tools & Platforms**: Blender3D, Photoshop, DroidScript
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - 🔧 **[MobileCode Studio](https://apkpure.com/mobilecode-studio/com.distino.mobilecodestudio)**
 - 🚗 **[RideRate](https://github.com/JohnPraise247/RideRate)** & **[RideRateNew](https://github.com/JohnPraise247/RideRateNew)**
