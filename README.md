@@ -10,7 +10,7 @@ I'm a passionate **web developer** who loves turning ideas into functional, user
 
 ## 🌟 Featured Projects
 
-- 🔧 **[MobileCode Studio](https://mobilecodestudio.org.ng/)**
+- 🔧 **[MobileCode Studio](https://apkpure.com/mobilecode-studio/com.distino.mobilecodestudio)**
 - 🚗 **[RideRate](https://github.com/JohnPraise247/RideRate)** & **[RideRateNew](https://github.com/JohnPraise247/RideRateNew)**
 - 📦 **[DroidScript Plugins](https://ds.justplayer.de/user/552)**
   
