@@ -14,7 +14,7 @@ I'm a passionate **web developer** who loves turning ideas into functional, user
 - 🚗 **[RideRate](https://github.com/JohnPraise247/RideRate)** & **[RideRateNew](https://github.com/JohnPraise247/RideRateNew)**
 - 📦 **[DroidScript Plugins](https://ds.justplayer.de/user/552)**
   
-## 📫 Get in Touch
+## Get in Touch
 
 - 📧 Email: [jpraise247@gmail.com](mailto:jpraise247@gmail.com)   
 - 💬 Feel free to connect, collaborate, or just say hi!
